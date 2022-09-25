@@ -1,0 +1,20 @@
+1.  Design the login page 
+2.  Design the Bottom navigation menu with the following names Home, Customers, Orders, Invoices
+3.  On the Home screen display the count of Employees, Orders and Products.
+4.  On click on the Customers display the customer list and click on the customer display the customer   details
+5.  On click on the Orders display the Orders list and click on the Orders details
+
+
+
+S.N	Application	API
+1	Customers	https://services.odata.org/V3/Northwind/Northwind.svc/Customers
+
+2	Orders	https://services.odata.org/V3/Northwind/Northwind.svc/Orders
+
+3	Order details	https://services.odata.org/V3/Northwind/Northwind.svc/Orders(ID)/Order_Details
+
+4	Products	https://services.odata.org/V3/Northwind/Northwind.svc/Products
+
+5	Invoices	https://services.odata.org/V3/Northwind/Northwind.svc/Invoices
+6	Employees	https://services.odata.org/V3/Northwind/Northwind.svc/Employees
+
